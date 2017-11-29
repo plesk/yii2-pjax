@@ -27,7 +27,7 @@ Setup the component in your web.php config:
 [
     'components' => [
         'pjax' => [
-            'class' => 'plesk\delayedloadingkartikgridview\pjax\Component',
+            'class' => 'plesk\yii2pjax\Component',
         ],
     ],
 ]
