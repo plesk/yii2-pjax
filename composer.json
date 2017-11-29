@@ -1,0 +1,23 @@
+{
+    "name": "plesk/yii2-pjax",
+    "description": "Plesk extension for Yii2 framework to extend it's PJAX functions.",
+    "homepage": "http://www.plesk.com",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","plesk","pjax"],
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Dmitrii Shiriaev",
+            "email": "dshiryaev@plesk.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "^2.0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "plesk\\yii2pjax\\": ""
+        }
+    }
+}
