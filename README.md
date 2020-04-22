@@ -12,7 +12,7 @@ The preferred way to install this extension is through [composer](http://getcomp
     "repositories": [
         {
             "type": "vcs",
-            "url":  "ssh://git@git.plesk.ru:7999/id/yii2-pjax.git"
+            "url":  "git@github.com:plesk/yii2-pjax.git"
         }
     ]
     ```
