@@ -1,10 +1,10 @@
 {
     "name": "plesk/yii2-pjax",
     "description": "Plesk extension for Yii2 framework to extend it's PJAX functions.",
-    "homepage": "http://www.plesk.com",
+    "homepage": "https://github.com/plesk/yii2-pjax",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","plesk","pjax"],
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Dmitrii Shiriaev",
